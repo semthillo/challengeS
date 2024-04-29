@@ -1,3 +1,4 @@
+
 .nav {
 
     background-color: #b1aeae;
@@ -47,7 +48,7 @@ body {
     margin: 0;
     padding: 0;
 
-    background-image: url('../calculator.webp');
+    background-image: url('../calculator.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
